@@ -1,5 +1,5 @@
 # Academic Project Page Template
-This is an academic paper project page template.
+HS-Surf: A Novel High-Frequency Surface Shell Radiance Field to Improve Large-Scale Scene Rendering
 
 We have presented the comparisons between HS-Surf with other models on Transamerica, Building, and Residence.
 
